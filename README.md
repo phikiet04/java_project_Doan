@@ -59,11 +59,15 @@
 ![example](./images/register.png)
 ![example](./images/home10.png)
 # Trang Admin
-![example](./images/admin_dashboard.jpg)
-![example](./images/admin_userall.jpg)
-![example](./images/admin_useradd.jpg)
-![example](./images/admin_categoriesall.jpg)
-![example](./images/admin_categoriesadd.jpg)
-![example](./images/admin_productsall.jpg)
-![example](./images/admin_productsadd.jpg)
-![example](./images/admin_orderall.jpg)
+![example](./images/admin_Dashboard.png)
+![example](./images/admin_Dashboard1.png)
+# Trang user
+![example](./images/admin_user.png)
+# Thêm User 
+![example](./images/admin_adduser.png)
+# Trang Categories 
+![example](./images/admin_cateories.png)
+# Thêm Categories
+![example](./images/admin_addcategory.png)
+# Trang order
+![example](./images/admin_order.png)
