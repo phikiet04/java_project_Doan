@@ -21,13 +21,15 @@
 ![example](./images/shop3.png)
 ![example](./images/shop4.png)
 ![example](./images/home10.png)
+
 # Trang chi tiết sản phẩm
 ![example](./images/product1.png)
 ![example](./images/product2.png)
 ![example](./images/product3.png)
 ![example](./images/product4.png)
 ![example](./images/home10.png)
-
+# Trang tìm kiếm
+![example](./images/search.png)
 
 # Trang Blog
 ![example](./images/blog1.png)
@@ -49,6 +51,9 @@
 ![example](./images/LOGIN.png)
 ![example](./images/login1.png)
 ![example](./images/home10.png)
+# Trang đăng nhập bằng google
+![example](./images/logingg.png)
+
 # Trang đăng ký
 ![example](./images/LOGIN.png)
 ![example](./images/register.png)
