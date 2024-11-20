@@ -20,11 +20,13 @@
 ![example](./images/shop2.png)
 ![example](./images/shop3.png)
 ![example](./images/shop4.png)
+![example](./images/home10.png)
 # Trang chi tiết sản phẩm
 ![example](./images/product1.png)
 ![example](./images/product2.png)
 ![example](./images/product3.png)
 ![example](./images/product4.png)
+![example](./images/home10.png)
 
 
 # Trang Blog
@@ -33,17 +35,22 @@
 ![example](./images/blog3.png)
 ![example](./images/blog4.png)
 ![example](./images/blog5.png)
+![example](./images/home10.png)
 # Trang liên hệ
 ![example](./images/contact.png)
 ![example](./images/contact1.png)
 ![example](./images/contact2.png)
+![example](./images/home10.png)
 # Trang giỏ hàng & thanh toán
 ![example](./images/cart1.png)
 ![example](./images/cart2.png)
+![example](./images/home10.png)
 # Trang đăng nhập
 ![example](./images/login.png)
+![example](./images/home10.png)
 # Trang đăng ký
 ![example](./images/register.png)
+![example](./images/home10.png)
 # Trang Admin
 ![example](./images/admin_dashboard.jpg)
 ![example](./images/admin_userall.jpg)
