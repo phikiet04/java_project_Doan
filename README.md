@@ -46,9 +46,11 @@
 ![example](./images/cart2.png)
 ![example](./images/home10.png)
 # Trang đăng nhập
-![example](./images/login.png)
+![example](./images/LOGIN.png)
+![example](./images/login1.png)
 ![example](./images/home10.png)
 # Trang đăng ký
+![example](./images/LOGIN.png)
 ![example](./images/register.png)
 ![example](./images/home10.png)
 # Trang Admin
