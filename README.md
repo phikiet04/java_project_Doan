@@ -12,6 +12,9 @@
 ![example](./images/home5.png)
 ![example](./images/home6.png)
 ![example](./images/home7.png)
+![example](./images/home8.png)
+![example](./images/home9.png)
+![example](./images/home10.png)
 # Trang Shop
 ![example](./images/shop.png)
 ![example](./images/shop2.png)
